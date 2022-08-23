@@ -1,0 +1,68 @@
+#verses{
+    width: 300px;
+    height: 60px;
+    box-sizing: border-box;
+    box-shadow: 10px;
+    border-color: black;
+    
+}
+button{
+
+    width: 100px;
+    height: 60px;
+    box-sizing: border-box;
+    box-shadow: 10px;
+    border-color: snow;
+    background-color:black;
+    -webkit-text-fill-color: transparent;
+-webkit-text-stroke-width:1px;
+color:snow
+
+}
+.header{
+    text-align: center;
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin: 0px;
+    padding-top:  1px;
+    -webkit-text-fill-color:aqua;
+    -webkit-text-stroke-width:2px;
+    background-color: black;
+    opacity: 0.9;
+    
+    }
+   
+        
+body{
+    background-color: darkgrey;
+    margin:0px;
+    padding:0px;
+    background-image: url(https://wallpapertag.com/wallpaper/full/9/6/8/156023-free-open-bible-background-2048x1706-pictures.jpg);
+    
+    
+  
+    }
+    
+  
+.card{
+
+        width: 500px;
+        border-radius: 10px;
+        height: 300px;
+        background-color:black;
+        opacity: 0.9;
+        text-align:left ;
+        margin-left: 500px;
+        margin-top: 50px;
+        padding: 15px;
+        border-color: black;
+       font-size: 30px;
+       color: aqua;
+    }
+    .card:hover{
+        border-radius: 10px;
+        transform: scale(1.08);
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    
